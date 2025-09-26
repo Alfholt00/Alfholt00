@@ -1,6 +1,7 @@
 ## Hi there 👋
 Alfholt00
-<!--
+this is my firt attempt using github how did i do?
+
 **Alfholt00/Alfholt00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
